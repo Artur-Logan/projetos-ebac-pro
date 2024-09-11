@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/programacao-dinamica/programacao-dinamica.iml" filepath="$PROJECT_DIR$/programacao-dinamica/programacao-dinamica.iml" />
       <module fileurl="file://$PROJECT_DIR$/projetos-ebac-pro.iml" filepath="$PROJECT_DIR$/projetos-ebac-pro.iml" />
     </modules>
   </component>
