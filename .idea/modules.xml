@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/mod2/mod2.iml" filepath="$PROJECT_DIR$/mod2/mod2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mod3/mod3.iml" filepath="$PROJECT_DIR$/mod3/mod3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod5/mod5.iml" filepath="$PROJECT_DIR$/mod5/mod5.iml" />
       <module fileurl="file://$PROJECT_DIR$/projetos-ebac-pro.iml" filepath="$PROJECT_DIR$/projetos-ebac-pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mod5/test/test.iml" filepath="$PROJECT_DIR$/mod5/test/test.iml" />
     </modules>
   </component>
 </project>
